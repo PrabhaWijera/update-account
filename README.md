@@ -1,4 +1,4 @@
-# update-account# 💫 About Me:
+💫 About Me:
 🧬I'm currently working on something Code 😎<br>☘️I'm currently learning IJSE<br>
 
 
