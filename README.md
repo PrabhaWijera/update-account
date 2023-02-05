@@ -1,8 +1,8 @@
   <h1 align="center">Hi 👋, I'm Prabhash Wijerathna</h1>
 <h3 align="center">📡Student Of A Software Engineer From Sri Lanka.</h3>
-<img align=”right” alt=”coding” width=”400”src=”![image](https://user-images.githubusercontent.com/106425954/216833776-c6314293-4248-4255-ad5b-d9b5c63c004d.gif)
-”>
-
+<img align= ”right” alt= ”coding” width=”400”src=”![image](https://user-images.githubusercontent.com/106425954/216834005-feeb54d0-f7fd-486f-b44e-b20d34a22315.png)
+">
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhawijera&label=Profile%20views&color=0e75b6&style=flat" alt="prabhawijera" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhawijera" alt="prabhawijera" /></a> </p>
