@@ -2,7 +2,7 @@
   
   <h1 align="center">Hi 👋, I'm Prabhash Wijerathna</h1>
 <h3 align="center">📡Student Of A Software Engineer From Sri Lanka.</h3>
- ![log2](https://github.com/PrabhaWijera/update-account/blob/main/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)
+ 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhawijera&label=Profile%20views&color=0e75b6&style=flat" alt="prabhawijera" /> </p>
 
