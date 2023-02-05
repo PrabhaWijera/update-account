@@ -1,4 +1,4 @@
-  ![logo]()
+  ![logo](0_7Q3yvSIv_t0ioJ-Z.gif)
   
   <h1 align="center">Hi 👋, I'm Prabhash Wijerathna</h1>
 <h3 align="center">📡Student Of A Software Engineer From Sri Lanka.</h3>
